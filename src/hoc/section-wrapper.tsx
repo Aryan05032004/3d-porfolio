@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 
 import { styles } from "../style";
-import { staggerContainer } from "../utils/motion";
+//import { staggerContainer } from "../utils/motion";
 
 const StarWrapper = (Component: any, idName: string) => () => {
     return (
