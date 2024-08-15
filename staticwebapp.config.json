@@ -4,7 +4,7 @@
                 "registration": {
                     "openIdIssuer": "https://login.microsoftonline.com/047bd549-c36c-4800-87a7-fa34583d1e79/v2.0",
                     "clientIdSettingName": "AAD_CLIENT_ID",
-                    "clientSecretSettingName": "AAD_CLIENT_SECRET"
+                    "clientSecretSettingName": "AZURE_CLIENT_SECRET_APP_SETTING_NAME"
                 }
             }
         }
